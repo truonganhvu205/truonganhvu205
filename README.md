@@ -1,5 +1,8 @@
 # Truong Anh Vu
 
+## Social Media
+[LinkedIn](https://www.linkedin.com/in/truonganhvu205/)
+
 ## Projects
 [Little Lemon](https://github.com/truonganhvu205/little-lemon)
 
