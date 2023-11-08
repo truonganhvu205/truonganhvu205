@@ -1,4 +1,4 @@
-# Truong Anh Vu
+# Hello, I am Vu. Welcome to my GitHub.
 
 ## Social Media
 [LinkedIn](https://www.linkedin.com/in/truonganhvu205/)
