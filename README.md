@@ -8,14 +8,18 @@
 
 [Calculator app](https://github.com/truonganhvu205/calculator-app)
 
+[10 JavaScript Projects](https://github.com/truonganhvu205/10-javascript-projects)
+
+---
+
 [Booking a table on the Little Lemon website](https://github.com/truonganhvu205/booking-a-table-on-the-Little-Lemon-website)
 
 [Portfolio](https://github.com/truonganhvu205/portfolio)
+
+---
 
 [Little Lemon website](https://github.com/truonganhvu205/little-lemon-website)
 
 [Traversy Courses](https://github.com/truonganhvu205/traversy-courses)
 
 [E-Commerce](https://github.com/truonganhvu205/e-commerce)
-
-[10 JavaScript Projects](https://github.com/truonganhvu205/10-javascript-projects)
