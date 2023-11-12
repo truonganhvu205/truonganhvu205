@@ -17,3 +17,5 @@
 [Traversy Courses](https://github.com/truonganhvu205/traversy-courses)
 
 [E-Commerce](https://github.com/truonganhvu205/e-commerce)
+
+[10 JavaScript Projects](https://github.com/truonganhvu205/10-javascript-projects)
