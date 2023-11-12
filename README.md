@@ -10,13 +10,11 @@
 
 [10 JavaScript Projects](https://github.com/truonganhvu205/10-javascript-projects)
 
----
-
 [Booking a table on the Little Lemon website](https://github.com/truonganhvu205/booking-a-table-on-the-Little-Lemon-website)
 
-[Portfolio](https://github.com/truonganhvu205/portfolio)
-
 ---
+
+[Portfolio](https://github.com/truonganhvu205/portfolio)
 
 [Little Lemon website](https://github.com/truonganhvu205/little-lemon-website)
 
