@@ -18,6 +18,6 @@
 
 [E-Commerce](https://github.com/truonganhvu205/e-commerce)
 
-[Little Lemon - Back End](https://github.com/truonganhvu205/little-lemon-be)
+[Little Lemon [ Django ] ](https://github.com/truonganhvu205/little-lemon-be)
 
 [Little Lemon API](https://github.com/truonganhvu205/little-lemon-API)
