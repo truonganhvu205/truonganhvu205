@@ -29,4 +29,4 @@
 [Little Lemon web application](https://github.com/truonganhvu205/little-lemon-web-application)
 
 ### Full-Stack Projects
-[Little Lemon]()
+[Little Lemon](https://github.com/truonganhvu205/little-lemon-full-stack)
