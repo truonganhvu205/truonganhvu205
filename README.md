@@ -4,8 +4,7 @@
 [LinkedIn](https://www.linkedin.com/in/truonganhvu205/)
 
 ## Projects
-<div class='flex'>
-  ### Front-End Projects
+### Front-End Projects
 [Little Lemon](https://github.com/truonganhvu205/little-lemon)
 
 [Calculator app](https://github.com/truonganhvu205/calculator-app)
@@ -28,7 +27,6 @@
 [Little Lemon booking system](https://github.com/truonganhvu205/little-lemon-booking-system)
 
 [Little Lemon web application](https://github.com/truonganhvu205/little-lemon-web-application)
-</div>
 
 ### Full-Stack Projects
 [Little Lemon](https://github.com/truonganhvu205/little-lemon-full-stack)
