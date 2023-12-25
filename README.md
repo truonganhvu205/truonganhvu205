@@ -1,5 +1,3 @@
-# Hello, I am Vu. Welcome to my GitHub.
-
 ## Social Media
 [LinkedIn](https://www.linkedin.com/in/truonganhvu205/)
 
@@ -29,4 +27,3 @@
 [Little Lemon web application](https://github.com/truonganhvu205/little-lemon-web-application)
 
 ### Full-Stack Projects
-[Music Controller](https://github.com/truonganhvu205/music-controller)
