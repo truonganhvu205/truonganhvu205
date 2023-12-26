@@ -3,7 +3,7 @@
 
 ## Projects
 ### Front-End Projects
-[Little Lemon website](https://github.com/truonganhvu205/little-lemon-website)
+[Little Lemon website](https://truonganhvu205.github.io/little-lemon-website/)
 
 [Traversy Courses](https://github.com/truonganhvu205/traversy-courses)
 
