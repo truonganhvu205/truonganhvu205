@@ -5,7 +5,7 @@
 ### Front-End Projects
 [Little Lemon website](https://truonganhvu205.github.io/little-lemon-website/)
 
-[Traversy Courses](https://github.com/truonganhvu205/traversy-courses)
+[Traversy Courses](https://traversy-courses.netlify.app/)
 
 [E-Commerce](https://github.com/truonganhvu205/e-commerce)
 
