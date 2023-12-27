@@ -7,7 +7,7 @@
 
 [Traversy Courses](https://traversy-courses.netlify.app/)
 
-[E-Commerce](https://github.com/truonganhvu205/e-commerce)
+[E-Commerce](https://e-commerce-truonganhvu205.netlify.app/)
 
 ### Back-End Projects
 [Little Lemon API](https://github.com/truonganhvu205/little-lemon-API)
