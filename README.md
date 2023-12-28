@@ -12,6 +12,6 @@
 ### Back-End Projects
 [Little Lemon API](https://github.com/truonganhvu205/little-lemon-API)
 
-[Little Lemon web application](https://github.com/truonganhvu205/little-lemon-web-application)
+[Little Lemon website](https://github.com/truonganhvu205/little-lemon-website-be)
 
 ### Full-Stack Projects
