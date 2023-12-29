@@ -3,7 +3,7 @@
 
 ## Projects
 ### Front-End Projects
-[Little Lemon website](https://truonganhvu205.github.io/little-lemon-website/)
+[Little Lemon website](https://truonganhvu205.github.io/booking-a-table-on-the-little-lemon-website-react/)
 
 [Traversy Courses](https://traversy-courses-truonganhvu205.netlify.app/)
 
