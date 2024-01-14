@@ -1,5 +1,5 @@
 ## Front-End Projects
-[Little Lemon](https://truonganhvu205.github.io/booking-a-table-on-the-little-lemon-website-react/)
+[Booking a table on the Little Lemon website](https://truonganhvu205.github.io/booking-a-table-on-the-little-lemon-website-react/)
 
 [Traversy Courses](https://traversy-courses-react-truonganhvu205.netlify.app/)
 
