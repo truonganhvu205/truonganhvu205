@@ -18,4 +18,6 @@
 
 [To-Do List app](https://github.com/truonganhvu205/to-do-list-app-django)
 
+[URL Shortener](https://github.com/truonganhvu205/url-shortener-django)
+
 # Full-Stack Projects
