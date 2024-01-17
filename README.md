@@ -20,4 +20,6 @@
 
 [URL Shortener](https://github.com/truonganhvu205/url-shortener-django)
 
+[Authentication System](https://github.com/truonganhvu205/authentication-system-django)
+
 # Full-Stack Projects
