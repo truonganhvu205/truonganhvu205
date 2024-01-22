@@ -22,4 +22,6 @@
 
 [Authentication System](https://github.com/truonganhvu205/authentication-system-django)
 
+[Weather app](https://github.com/truonganhvu205/weather-app-django)
+
 # Full-Stack Projects
