@@ -8,16 +8,11 @@
 6. [E-Commerce](https://e-commerce-react-truonganhvu205.netlify.app/)
 
 ## Back-End portfolio
-[Little Lemon API](https://github.com/truonganhvu205/little-lemon-API)
+1. [Little Lemon API](https://github.com/truonganhvu205/little-lemon-API)
+2. [Little Lemon](https://truonganhvu205.pythonanywhere.com/)
+3. [To-Do List app](https://github.com/truonganhvu205/to-do-list-app-django)
+4. [URL Shortener](https://github.com/truonganhvu205/url-shortener-django)
+5. [Authentication System](https://github.com/truonganhvu205/authentication-system-django)
+6. [Weather app](https://github.com/truonganhvu205/weather-app-django)
 
-[Little Lemon](https://truonganhvu205.pythonanywhere.com/)
-
-[To-Do List app](https://github.com/truonganhvu205/to-do-list-app-django)
-
-[URL Shortener](https://github.com/truonganhvu205/url-shortener-django)
-
-[Authentication System](https://github.com/truonganhvu205/authentication-system-django)
-
-[Weather app](https://github.com/truonganhvu205/weather-app-django)
-
-# Full-Stack Projects
+## Full-Stack Projects
