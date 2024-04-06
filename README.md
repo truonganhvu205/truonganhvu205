@@ -14,5 +14,3 @@
 4. [URL Shortener](https://github.com/truonganhvu205/url-shortener-django)
 5. [Authentication System](https://github.com/truonganhvu205/authentication-system-django)
 6. [Weather app](https://github.com/truonganhvu205/weather-app-django)
-
-## Full-Stack Projects
