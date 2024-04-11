@@ -10,7 +10,7 @@
 ## Back-End portfolio
 1. [To-Do List app](https://github.com/truonganhvu205/to-do-list-app-django)
 2. [URL Shortener](https://github.com/truonganhvu205/url-shortener-django)
-3. [Authentication System](https://github.com/truonganhvu205/authentication-system-django)
-4. [Weather app](https://github.com/truonganhvu205/weather-app-django)
+3. [Weather app](https://github.com/truonganhvu205/weather-app-django)
+4. [Authentication System](https://github.com/truonganhvu205/authentication-system-django)
 5. [Little Lemon API](https://github.com/truonganhvu205/little-lemon-API)
 6. [Little Lemon](https://truonganhvu205.pythonanywhere.com/)
